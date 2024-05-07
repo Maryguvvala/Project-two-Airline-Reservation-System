@@ -1,2 +1,4 @@
 # Project-two-Airline-Reservation-System
-Developed an airline reservation system project using Selenium and TestNG, implementing the Page Object Model framework. Authored test scripts for login, product search, baggage checking, and seat selection functionalities. Utilized data-driven testing to input data for testing scenarios.
+- &nbsp;Developed and executed automated test scripts for airline reservation system using Selenium.
+- &nbsp;Created test scenarios and authored test cases for login, logout, flight search, payment, seat selection, and baggage checking functionalities.
+ - &nbsp;Utilized Selenium, TestNG, Page Object Model, and Data Driven Testing for test automation.
